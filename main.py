@@ -4,12 +4,12 @@ Unit Testing
 Task:
 A bald professor left you his code while mumbling something about trying to calculate the meaning of life using bob's maths library. He kept complaining about how bobs maths functions just didn't make sense!
 
-He wrote two unit tests but then gave up. Can you help him write the rest of the unit tests to check that bobs maths functions are working correctly?
+He wrote two unit tests but then gave up. Can you help him write the rest of the unit tests and fix bobs maths functions?
 """
 
 import random
 
-# Write unit tests to test bob's add, sub, mult, div, and ternary_confumble functions
+# Write unit tests to test and fix bob's add, sub, mult, div, and ternary_confumble functions
 from bobs_maths_lib import add, sub, mult, div, ternary_confumble
 
 
