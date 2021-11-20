@@ -10,7 +10,7 @@ He wrote two unit tests but then gave up. Can you help him write the rest of the
 import random
 
 # Write unit tests to test bob's add, sub, mult, div, and ternary_confumble functions
-from lib import add, sub, mult, div, ternary_confumble
+from bobs_maths_lib import add, sub, mult, div, ternary_confumble
 
 
 def main():
